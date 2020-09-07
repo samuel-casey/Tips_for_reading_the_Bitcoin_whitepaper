@@ -15,7 +15,7 @@ The next step in my education was attending a crypto-101 presentation led by led
 
 > **Waiting so long to read the Bitcoin whitepaper is my biggest regret to date in how I've gone about learning crypto. I held off on reading it for so long because I had a lot of questions about it.**
 >
-> **In this article, I share 3 of the questions I had when first reading the Bitcoin whitepaper and strategies I used to find answers to them, in hopes of inspiring more newcomers to read it.**
+> **In this article, I share 3 of the questions I had when first reading the Bitcoin whitepaper and strategies I used to find answers to them, in hopes of inspiring more newcomers to read it sooner than I did.**
 
 ---
 
