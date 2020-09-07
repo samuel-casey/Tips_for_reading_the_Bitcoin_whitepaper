@@ -84,7 +84,7 @@ He looked at me like a chicken with three heads the first time I tried to explai
 
 Getting started learning about Bitcoin is no easy task, but if you’re committed, it’s doable.
 
-The three questions outlined in this article are not exclusive to the Bitcoin whitepaper.
+The three questions outlined in this article are not exclusive to the [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf).
 
 I have asked myself similar questions when first learning about many Crypto concepts over the past few years, and every time I found answers by following the same three basic principles:
 
