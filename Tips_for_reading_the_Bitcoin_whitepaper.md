@@ -58,7 +58,7 @@ Bitcoin solves this issue of trust because it is a public blockchain. Reading th
 > 
 > **If you don't know who to follow to get started on Crypto Twitter, some of my favorite follows for Bitcoin content are [Anthony Pompliano](https://twitter.com/APompliano), [Jameson Lopp](https://twitter.com/lopp) and [Nic Carter](https://twitter.com/nic__carter) in no particular order.**
 
-####Q3: How will I know if I understood what I read?
+#### Q3: How will I know if I understood what I read?
 
 **A3:** The only way to figure out if you understood the whitepaper is by trying to explain aspects of it to someone else who has very limited or no prior Bitcoin knowledge.
 
@@ -67,7 +67,7 @@ This holds true for pretty much any complex subject you're learning for the firs
 Most people who use Bitcoin are not, and will never become technical experts. Despite this fact, 
 most people I've met are spoken to are able to see the benefits of Bitcoin when I distill the main points of the whitepaper into words they can understand.
 
-#####How I came to this answer:
+##### How I came to this answer:
 > **Simply put, practice.**
 > 
 > **The first person I tried explaining the technical aspects of Bitcoin to was my old roommate. He worked in investment banking with a focus on technology at the time, so I thought he'd "get it" instantly.**
@@ -80,8 +80,16 @@ most people I've met are spoken to are able to see the benefits of Bitcoin when 
 
 Getting started learning about Bitcoin is no easy task, but if you're committed, it's doable.
 
-The three questions outlined in this article, the answers I found to them, and how I found those answers are not exclusive to the Bitcoin whitepaper.
+The three questions outlined in this article are not exclusive to the Bitcoin whitepaper. I have asked myself similar questions when first learning about many Crypto concepts over the course of the past two years, and every time I found answers by following the same three basic principles:
 
-If you have any feedback for me on this article, including questions you had before reading the whitepaper that you would like me to add, please reach out! My DMs are open on Twitter [@_samcasey](https://twitter.com/_samcasey) 
+1. Start by asking for help.
+
+2. Stick to the principle "don't trust, verify". If you trust someone else to explain a complex concept to you, you'll never truly understand it.
+   
+3. Once you think you've learned something, try teaching it to someone else. You've never truly learned something until you can explain it clearly.
+
+If you have any feedback on this article, or would like me to make any additions, please reach out! 
+
+My DMs are open on Twitter [@_samcasey](https://twitter.com/_samcasey).
 
 For any fellow GitHub users, I've also created a [public GitHub repo] () with Issues enabled that I'll use for ongoing changes.
