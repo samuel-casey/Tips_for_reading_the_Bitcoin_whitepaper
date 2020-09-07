@@ -10,7 +10,7 @@ I first became fascinated with Bitcoin a few months after the mania of 2017 died
 
 I had no idea where to start learning, so I turned to LinkedIn to see if I was connected to anyone who worked in the space. Luckily enough, [Justin Gregorious](https://twitter.com/jtgregorius) (who works at CoinList) went to Boston College with a buddy of mine from an internship.
 
-Justin recommended I read [Cryptoassets](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671) by Chris Burniske and get on twitter. I took his advice, and immediately got hooked for good. Still, I didn't feel ready to read something so daunting as the whitepaper.
+Justin recommended I read [Cryptoassets](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671) by Chris Burniske and get on twitter. I took his advice, and immediately got hooked for good. Still, I didn't feel ready to read something so daunting as the [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf).
 
 A few months of twitter scrolling later, I started as a strategy analyst at Fidelity, where I attended a crypto-101 presentation led by [Andy Fowler](https://www.linkedin.com/in/andy-fowler-cfa-131a8529/). Soon after, I read [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861) per the recommendation of [Brian Wright](https://twitter.com/brian_wright21?s=20).
 
