@@ -5,19 +5,17 @@
 
 ## Introduction
 
-When I first read the Bitcoin whitepaper, I was a first-year strategy analyst at Fidelity Investments. I first became fascinated with Bitcoin in the spring of 2018, after the mania of 2017 died down, and it became apparent to me that Bitcoin wasn't going anywhere.
-
-I knew there was a whitepaper, because I had heard about it in a podcast, but did not have the technical background to start my Bitcoin education there.
+When I first read the Bitcoin whitepaper, I was a first-year strategy analyst at Fidelity Investments. I first became fascinated with Bitcoin just after the mania of 2017 died down, and it became apparent to me that Bitcoin wasn't going anywhere.
 
 The first step in my Bitcoin education was a phone call with [Justin Gregorious](https://twitter.com/jtgregorius). He recommended I read [Cryptoassets](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671) by Chris Burniske, and get on twitter. I took his advice, and got hooked.
 
-The next step in my education was attending Bits-and-Blocks club meetings hosted by Fidelity's Center for Applied Technology, and reading [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861) per the recommendation of my colleague and friend [Brian Wright](<https://twitter.com/brian_wright21?s=20>).
+The next step in my education was attending a crypto-101 presentation led by led by [Andy Fowler](https://www.linkedin.com/in/andy-fowler-cfa-131a8529/), and reading [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861) per the recommendation of [Brian Wright](<https://twitter.com/brian_wright21?s=20>).
 
-*It was only after reading these two books and attending a crypto-101 presentation led by* [Andy Fowler](https://www.linkedin.com/in/andy-fowler-cfa-131a8529/)*, that I finally had the courage to read the whitepaper.* 
+*It was only after reading books and talking to people who knew more than me that I finally decided to read the whitepaper.* 
 
-> **Waiting so long to read the Bitcoin whitepaper is my biggest regret to date in how I've gone about learning crypto.** 
+> **Waiting so long to read the Bitcoin whitepaper is my biggest regret to date in how I've gone about learning crypto. I held off on reading it for so long because I had a lot of questions about it.**
 >
-> **In this article, I share 3 Questions I had when first reading the Bitcoin whitepaper and strategies I used to find answers to them, in hopes of inspiring more newcomers to read it.**
+> **In this article, I share 3 of the questions I had when first reading the Bitcoin whitepaper and strategies I used to find answers to them, in hopes of inspiring more newcomers to read it.**
 
 ---
 
@@ -38,7 +36,7 @@ The whitepaper is well written, concise, and includes diagrams that help explain
 >
 > **When overwhelmed by the technical aspects of crypto, start with a synopsis of the material (if its available). If you don't know where to look for those resources, ask for help. If I hadn't checked out these two sites, I wouldn't have been convinced reading the whitepaper was worth my time.**
 
-#### Q2: Why should I read the whitepaper if I can just read a synopsis of its principles?
+#### Q2: Why should I read the whitepaper if I can just read a less-technical synopsis?
 
 **A2:** When it comes to Crypto, you should never trust, and always verify.
 
@@ -46,9 +44,9 @@ In my opinion, the most most important aspect of Bitcoin is its transparency.
 
 The fact that anyone with the skills can spin up a node and verify every single transaction that has ever occurred on the Bitcoin network is something that no bank or traditional financial institution would ever allow.
 
-Could you imagine Bank of America publishing a psudonymized list of all of their account balances? It would never happen. If it were not for FDIC insurance and reserve regulations, we would have little reason to trust that the money held in our bank accounts is actually there for us to withdraw.
+Could you imagine Bank of America publishing a pseudonymized list of all of their account balances? It would never happen. If it were not for FDIC insurance and cash reserve regulations, we would have little reason to trust that the money held in our bank accounts is actually there for us to withdraw.
 
-Bitcoin solves this issue of trust because it is a public blockchain. Reading the whitepaper helped me better understand what public blockchain means, and how blockchains work.
+Bitcoin solves the trust issue because it is a public blockchain. Reading the whitepaper helped me better understand what public blockchain means, and how blockchains work.
 
 ##### How I came to this answer:
 > 
@@ -56,7 +54,7 @@ Bitcoin solves this issue of trust because it is a public blockchain. Reading th
 > 
 > **After spending a little time wading through the vast sea of Crypto thinkers on twitter, you'll find some voices that resonate with you, and start to appreciate the importance of trustlessness and verification more.**
 > 
-> **If you don't know who to follow to get started on Crypto Twitter, some of my favorite follows for Bitcoin content are [Anthony Pompliano](https://twitter.com/APompliano), [Jameson Lopp](https://twitter.com/lopp) and [Nic Carter](https://twitter.com/nic__carter) in no particular order.**
+> **If you don't know who to follow to get started on Crypto Twitter, some of my favorite follows for Bitcoin content are [Anthony Pompliano](https://twitter.com/APompliano), [Jameson Lopp](https://twitter.com/lopp) and [Nic Carter](https://twitter.com/nic__carter) in no particular order. Check them out and follow some of the same accounts they do.**
 
 #### Q3: How will I know if I understood what I read?
 
@@ -85,11 +83,11 @@ The three questions outlined in this article are not exclusive to the Bitcoin wh
 1. Start by asking for help.
 
 2. Stick to the principle "don't trust, verify". If you trust someone else to explain a complex concept to you, you'll never truly understand it.
-   
-3. Once you think you've learned something, try teaching it to someone else. You've never truly learned something until you can explain it clearly.
+
+3. Once you think you've learned something, try teaching it to someone else. You haven't actually learned something until you can explain it clearly.
 
 If you have any feedback on this article, or would like me to make any additions, please reach out! 
 
 My DMs are open on Twitter [@_samcasey](https://twitter.com/_samcasey).
 
-For any fellow GitHub users, I've also created a [public GitHub repo] () with Issues enabled that I'll use for ongoing changes.
+For any fellow GitHub users, I've also created a [public GitHub repo](https://github.com/samuel-casey/Tips_for_reading_the_Bitcoin_whitepaper) with Issues enabled that I'll use for ongoing changes.
