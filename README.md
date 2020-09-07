@@ -4,4 +4,8 @@
 
 This repository houses a medium article I wrote targeted at traditional finance professionals and other less-technical folks on how to go about reading the [Bitcoin whitepaper] <https://bitcoin.org/bitcoin.pdf>.
 
-In this article, I detail questions I myself had when first reading the Bitcoin whitepaper, strategies I used to find answers to those questions, and some best practices I've developed since becoming more technically savvy.
+In this article, I share questions I had when first reading the Bitcoin whitepaper, strategies I used to find answers to those questions, and some personal best practices for reading whitepapers I've developed since becoming more technically savvy.
+
+If you have any feedback for me about this article, please reach out! My goal is to add insights from others to do my part in educating the world about Bitcoin.
+
+I have enabled Issues on this repository for feedback, and my DMs are also open on Twitter @_samcasey.
