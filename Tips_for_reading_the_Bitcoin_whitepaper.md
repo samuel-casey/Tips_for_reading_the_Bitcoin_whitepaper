@@ -36,7 +36,7 @@ The whitepaper is well written, concise, and includes diagrams that help explain
 
 **How I came to this answer:**
 
-> The only way I found an answer to this question was by asking someone who had already read the whitepaper. Without asking Brian and Andy this exact question, there is no way I would have been exposed to resources like [coindesk Learn](https://www.coindesk.com/learn), or [Jameson Lopp’s website](https://www.lopp.net/bitcoin-information/getting-started.html).
+> The way I found an answer to this question was by asking someone who had already read the whitepaper. Without asking Brian and Andy this exact question, there is no way I would have been exposed to resources like [coindesk Learn](https://www.coindesk.com/learn), or [Jameson Lopp’s website](https://www.lopp.net/bitcoin-information/getting-started.html).
 
 > When overwhelmed by the technical aspects of crypto, start with a synopsis of the material (if its available). If you don’t know where to look for those resources, ask for help. If I hadn’t checked out these two sites, I wouldn’t have been convinced reading the whitepaper was worth my time.
 
