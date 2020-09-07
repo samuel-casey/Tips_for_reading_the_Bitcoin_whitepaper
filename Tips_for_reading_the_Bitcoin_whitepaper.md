@@ -5,7 +5,7 @@
 
 ## Introduction
 
-When I first read the Bitcoin whitepaper, I was a first-year strategy analyst at Fidelity Investments. I first became fascinated with Bitcoin just after the mania of 2017 died down, and it became apparent to me that Bitcoin wasn't going anywhere.
+When I first read the Bitcoin whitepaper, I was a first-year strategy analyst at Fidelity Investments. I first became fascinated with Bitcoin just after the mania of 2017 died down, when it became apparent to me that Bitcoin wasn't going anywhere.
 
 The first step in my Bitcoin education was a phone call with [Justin Gregorious](https://twitter.com/jtgregorius). He recommended I read [Cryptoassets](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671) by Chris Burniske, and get on twitter. I took his advice, and got hooked.
 
