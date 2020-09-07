@@ -1,4 +1,4 @@
-# Tips for reading the Bitcoin whitepaper ***for traditional finance professionals and other less-technical folks***
+# Tips for reading the Bitcoin whitepaper <br> ***for traditional finance professionals and other less-technical folks***
 
 
 ---
