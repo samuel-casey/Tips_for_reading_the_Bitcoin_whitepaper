@@ -6,7 +6,7 @@
 
 ### Introduction
 
-I first became fascinated with Bitcoin a few months after the mania of 2017 died down. When the price fell dramatically, and investors that I looked up to like Preston Pysh were still talking about it, it became clear to me that Bitcoin wasn’t going anywhere.
+I first became fascinated with Bitcoin a few months after the mania of 2017 died down. When the price fell dramatically, and investors that I looked up to like [Preston Pysh](https://twitter.com/PrestonPysh) were still talking about it, it became clear to me that Bitcoin wasn’t going anywhere.
 
 I had no idea where to start learning, so I turned to LinkedIn to see if I was connected to anyone who worked in the space. Luckily enough, [Justin Gregorious](https://twitter.com/jtgregorius) (who works at CoinList) went to Boston College with a buddy of mine from an internship.
 
